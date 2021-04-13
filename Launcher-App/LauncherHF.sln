@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LauncherHF", "LauncherHF\LauncherHF.vbproj", "{1B550989-F3A0-4A3C-B251-CCBE44313A88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Test|Any CPU = Test|Any CPU
+		Test|x64 = Test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Debug|x64.ActiveCfg = Debug|x64
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Debug|x64.Build.0 = Debug|x64
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Release|x64.ActiveCfg = Release|x64
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Release|x64.Build.0 = Release|x64
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Test|Any CPU.Build.0 = Test|Any CPU
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Test|x64.ActiveCfg = Test|x64
+		{1B550989-F3A0-4A3C-B251-CCBE44313A88}.Test|x64.Build.0 = Test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4467FDD3-32A9-432D-8370-61E7EF4F18F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Release\LauncherHF.exe.config
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Release\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.Form1.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.msg.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.msg_alert.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.msg_update.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.Resources.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.vbproj.GenerateResource.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.vbproj.CoreCompileInputs.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.vbproj.CopyComplete
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Release\MetroFramework.dll
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Release\MetroFramework.Fonts.dll
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Release\LauncherHF.vbprojAssemblyReference.cache

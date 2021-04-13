@@ -1,0 +1,102 @@
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\LauncherHF.exe.config
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\LauncherHF.pdb
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\LauncherHF.xml
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\MetroFramework.dll
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbprojAssemblyReference.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.Form1.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_alert.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_update.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.Resources.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.GenerateResource.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CoreCompileInputs.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CopyComplete
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.xml
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\Release\LauncherHF.pdb
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\HellFireRP.exe.config
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\HellFireRP.exe
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\HellFireRP.pdb
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\HellFireRP.xml
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\MetroFramework.dll
+F:\Backup\Backup 2\LauncherHF\LauncherHF\bin\Release\MetroFramework.Fonts.dll
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbprojAssemblyReference.cache
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.Form1.resources
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg.resources
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_alert.resources
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_update.resources
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.Resources.resources
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.GenerateResource.cache
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CoreCompileInputs.cache
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CopyComplete
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\HellFireRP.exe
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\HellFireRP.xml
+F:\Backup\Backup 2\LauncherHF\LauncherHF\obj\Release\HellFireRP.pdb
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\HellFireRP.exe.config
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\HellFireRP.exe
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\HellFireRP.pdb
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\HellFireRP.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\FireSharp.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\MetroFramework.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\MetroFramework.Fonts.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Newtonsoft.Json.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\System.Net.Http.Extensions.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\System.Net.Http.Primitives.dll
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\Newtonsoft.Json.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\System.Net.Http.Extensions.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\bin\Release\System.Net.Http.Primitives.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.App.config
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbprojAssemblyReference.cache
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.cacheDelete.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.Form1.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_alert.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.msg_update.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.Resources.resources
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.GenerateResource.cache
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CoreCompileInputs.cache
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\LauncherHF.vbproj.CopyComplete
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\HellFireRP.exe
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\HellFireRP.xml
+F:\Backup\Backup 3\LauncherHF\LauncherHF\obj\Release\HellFireRP.pdb
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.vbproj.App.config
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.vbprojAssemblyReference.cache
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.cacheDelete.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.Form1.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.msg.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.msg_alert.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.msg_update.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.Resources.resources
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.vbproj.GenerateResource.cache
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.vbproj.CoreCompileInputs.cache
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\HellFireRP.exe
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\HellFireRP.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\HellFireRP.pdb
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\HellFireRP.exe.config
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\HellFireRP.exe
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\HellFireRP.pdb
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\HellFireRP.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\FireSharp.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\MetroFramework.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\MetroFramework.Fonts.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Newtonsoft.Json.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\System.Net.Http.Extensions.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\System.Net.Http.Primitives.dll
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\Newtonsoft.Json.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\System.Net.Http.Extensions.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\bin\Release\System.Net.Http.Primitives.xml
+F:\Backup\Launcher Fix\1.0.1.1\LauncherHF\obj\Release\LauncherHF.vbproj.CopyComplete

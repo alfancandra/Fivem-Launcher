@@ -1,0 +1,14 @@
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Test\LauncherHF.exe.config
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Test\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.vbprojAssemblyReference.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.Form1.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.msg.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.msg_alert.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.msg_update.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.Resources.resources
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.vbproj.GenerateResource.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.vbproj.CoreCompileInputs.cache
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.vbproj.CopyComplete
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\obj\x64\Test\LauncherHF.exe
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Test\MetroFramework.dll
+C:\Users\Alfan Adi Chandra\source\repos\LauncherHF\LauncherHF\bin\x64\Test\MetroFramework.Fonts.dll
